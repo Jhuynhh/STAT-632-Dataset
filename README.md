@@ -3,7 +3,7 @@ Data set for STAT 632 Project
 
 The dataset I will be using for my STAT 632 project is the [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
-This is a fictious dataset created by IBM data scientists to replicate a typical dataset from the Human Resources department. The goal of this project is to understand what factors are important to employee attrition and predicting who would leave the company.
+This is a fictious dataset created by IBM data scientists to replicate a typical dataset from the Human Resources department at a company. The goal of this project is to understand what factors are important to employee attrition and predicting who would leave the company.
 
 There are 34 predictors and 1470 records for this dataset. 
 
